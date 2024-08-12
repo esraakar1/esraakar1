@@ -1,7 +1,7 @@
-👋 Hi, I’m @esraakar1
-👀 I’m interested in software
-🌱 I’m currently learning front-end
-📫 contact: esraess886@gmail.com
+- 👋 Hi, I’m @esraakar1
+- 👀 I’m interested in software
+- 🌱 I’m currently learning front-end
+- 📫 contact: esraess886@gmail.com
 
 
 
